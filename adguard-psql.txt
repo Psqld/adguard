@@ -1,0 +1,16 @@
+!
+! Title: AdGuard DNS filter
+! Description: My personal AdGuard blocklist with sites I don't want to use/see
+! Version: 1.0.0.0
+! Homepage: https://github.com/psqld/adguard
+! Last modified: 2026-10-31
+!
+||gpblog.com^
+||gpfans.com^
+||gponline.com^
+||instagram.com^
+||jacksrippies.nl^
+||kwalitaria.nl^
+||racingnews365.nl^
+||shabutogo.nl^
+||thuisbezorgd.nl^
